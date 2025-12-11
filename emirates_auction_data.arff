@@ -1,0 +1,12 @@
+@relation emirates_auction
+
+@attribute car_brand NUMERIC
+@attribute bids NUMERIC
+@attribute price NUMERIC
+
+@data
+1,5,30000
+0,8,42000
+2,10,51000
+0,7,39000
+1,3,28000
